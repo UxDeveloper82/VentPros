@@ -46,7 +46,7 @@ header {
     background-size: cover;
     -o-background-size: cover;
     background-position: center center;
-    background-image: url('/images/bg.jpg');
+    background-image: url('images/bg.jpg');
     text-align: center;
     color: white;
 }
@@ -194,7 +194,7 @@ Contact Area
 ---------------*/
 #contact-first {
     background-position: center center;
-    background-image: url('/assets/images/modern-kitchen.jpg');
+    background-image: url('images/modern-kitchen.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
