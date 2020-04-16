@@ -196,7 +196,7 @@ for (var i = 0; i < repairs.length; i++) {
     card.innerHTML +=`
           <div class="col-md-4 col-sm-6">
              <div class="mt-3">
-                    <img class="img-fluid" src="/Content/images/${repair.image}.jpg" alt="crib thumbnail">
+                    <img class="img-fluid" src="images/${repair.image}.jpg" alt="crib thumbnail">
                     <div style="height:230px" class="mb-3">
                         <p class="card-title">
                             <span class="label label-primary">
